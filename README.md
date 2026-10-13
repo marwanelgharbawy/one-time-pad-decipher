@@ -1,2 +1,2 @@
 # Deciphering One-Time Pad Ciphertexts
-In progress.
+One-Time Pad when used to encrypt multiple messages with the same key is vulnerable to attacks. This notebook demonstrates how to exploit this vulnerability to decipher multiple ciphertexts encrypted with the same key.
